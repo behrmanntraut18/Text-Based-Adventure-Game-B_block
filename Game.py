@@ -1,21 +1,4 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @behrmanntraut18
- Sign out
- Watch 0
-  Star 1  Fork 3 jobradley18/CRTCmerpmerp
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-Tree: e38f11773b Find file Copy pathCRTCmerpmerp/living_Quarters.py
-9ec54ed  2 days ago
-@rogilberti19 rogilberti19 Update living_Quarters.py
-4 contributors @jobradley18 @krgaston19 @behrmanntraut18 @rogilberti19
-RawBlameHistory      
-296 lines (264 sloc)  11.7 KB
+
 ########################################################
 
 def check_Inventory():
